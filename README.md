@@ -1,1 +1,3 @@
-# energy_prices_LSTM
+# Predicting energy prices with LSTM
+
+## This is homework submitted. 
